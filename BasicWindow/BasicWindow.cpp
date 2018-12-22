@@ -1,7 +1,6 @@
 // BasicWindow.cpp : Defines the entry point for the application.
 //
-// This is a 
-// This is a 
+// This is a basic Windows Win32 application
 //
 // with an extra debugging window in the lower right corner (hWndStatus)
 // from: Advanced Windows Programming, Heller.
